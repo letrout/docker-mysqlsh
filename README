@@ -1,0 +1,4 @@
+Runs mysqlsh in a Docker container
+
+Example invocation:
+sudo docker run --rm -it mysqlsh:latest
